@@ -1,0 +1,11 @@
+This app is designed to help keep track of games you own.
+You can add games into your library manually by going to
+the "Add a Game" page and typing the necessary information.
+
+In the "Library" page, you can see the list of games you
+added, as well as remove any games you want (though this
+action removes data).
+
+As well in the Library page, you can sort the games. You can
+do so by typing "Sort Games" and choosing either to sort by
+game name, release date, developer, or publisher.
